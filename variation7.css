@@ -1,0 +1,208 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+body {
+	font-family: 'Archivo Black', sans-serif;
+	background-color: #20b2aa;
+  color: white;
+  font-family: 'Meddon', cursive;
+  font-size: 10vw;
+}
+
+.two {
+  font-size: 4vw;
+}
+
+.staring {
+  font-size: 6vw;
+  margin-top: -5%;
+}
+
+.floating {
+  font-size: 12vw;
+  position: absolute;
+  left: 18vw;
+  margin-top: 20%
+}
+
+
+.up {
+  margin-top: 42%;
+  font-size: 4vw;
+  position: absolute;
+  left: 38vw;
+}
+
+.ceiling {
+  margin-top: 45%;
+  position: absolute;
+  left: 22vw;
+  font-size: 12vw;
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+
+.im {
+  margin-top: 80%;
+  font-size: 45vw;
+  position: absolute;
+  left: 2vw;
+}
+
+.swim {
+  margin-top: 145%;
+  font-size: 22.4vw;
+  position: absolute;
+  left: 2vw;
+}
+
+.ming {
+  margin-top: 172%;
+  font-size: 24vw;
+  position: absolute;
+  left: 2vw;
+}
+
+.in {
+  margin-top: 183%;
+  font-size: 60vw;
+  position: absolute;
+  left: 2vw;
+}
+
+.waves{
+    color: #20b2aa;
+  	font-style: italic;
+  	font-size: 8vw;
+  	display: flex;
+  	flex-direction: column;
+  	position: absolute;
+  	left: 2vw;
+    line-height: .8;
+    margin-top: 113%;
+}
+
+
+
+.im2 {
+  margin-top: 300%;
+  position: absolute;
+  left: 38vw;
+}
+
+.thinking {
+  margin-top: 315%;
+  position: absolute;
+  left: 20vw;
+}
+
+.bout {
+  margin-top: 330%;
+  position: absolute;
+  left: 30vw;
+}
+
+
+.jump {
+  margin-top: 380%;
+  position: absolute;
+  left: 2vw;
+  font-size: 23vw;
+}
+
+.ing {
+  margin-top: 412%;
+  position: absolute;
+  right: 2vw;
+  font-size: 22vw;
+}
+
+.in2 {
+  margin-top: 440%;
+  position: absolute;
+  right: 2vw;
+  font-size: 22vw;
+
+}
+
+.instead {
+  margin-top: 478%;
+  position: absolute;
+  right: 2vw;
+  font-size: 5vw;
+}
+
+
+.got {
+  margin-top: 505%;
+  position: absolute;
+  right: 2vw;
+  font-size: 12vw;
+}
+
+
+.waves2 {
+  margin-top: 550%;
+  font-style: italic;
+  font-size: 9.2vw;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  left: 0vw;
+  line-height: .5;
+}
+
+.skinny {
+  margin-top: 590%;
+  font-size: 14vw;
+  position: absolute;
+  left: 10vw;
+  color:#20b2aa;
+}
+
+
+.dipping {
+  margin-top: 620%;
+  font-size: 14vw;
+  position: absolute;
+  left: 8vw;
+  color:#20b2aa;
+}
+
+.navigation {
+	position: absolute;
+	margin-top: 700%;
+	font-size: 10vw;
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	text-align: center;
+}
+
+.back {
+	width: 33%;
+}
+
+.home {
+	width: 33%;
+
+}
+
+.forward {
+	width: 33%;
+}
+
+a {
+	color:white;
+	text-decoration: none;
+}
+
+
+

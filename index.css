@@ -1,0 +1,667 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+body {
+	font-family: 'Permanent Marker', cursive;
+	color: black;
+	background-color: #ED1C24;
+}
+
+.two {
+	font-family: 'Archivo Black', sans-serif;
+	font-weight: 200;
+	color: white;
+	font-size: 12vw;
+}
+
+.still {
+	font-size: 10vw;
+	margin-top: -9%;
+	position: absolute;
+
+}
+
+.breathing {
+	font-size: 10vw;
+	margin-top: -2%;
+	position: absolute;
+	left: 10vw;
+}
+
+.staring {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: white;
+	margin-top: 25%;
+	font-size: 6vw;
+	position: absolute;
+	right: 30vw;
+}
+
+.at {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: white;
+	margin-top: 32%;
+	font-size: 6vw;
+	position: absolute;
+	right: 30vw;
+}
+
+.my {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: white;
+	margin-top: 38%;
+	font-size: 6vw;
+	position: absolute;
+	right: 30vw;
+}
+
+.thoughts {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: white;
+	margin-top: 44%;
+	font-size: 6vw;
+	position: absolute;
+	right: 30vw;
+}
+
+
+.floating {
+	font-size: 10vw;
+	margin-top: 100%;
+	position: absolute;
+	left: 5vw;
+}
+
+.up {
+	font-size: 10vw;
+	margin-top: 92%;
+	position: absolute;
+	left: 36vw;
+}
+
+.to {
+	font-size: 10vw;
+	margin-top: 84%;
+	position: absolute;
+	left: 43vw;
+}
+
+.the {
+	font-size: 10vw;
+	margin-top: 76%;
+	position: absolute;
+	left: 51vw;
+}
+
+.ceiling {
+	font-size: 10vw;
+	margin-top: 68%;
+	position: absolute;
+	left: 59vw;
+}
+
+.water {
+	font-size: 11vw;
+	display: flex;
+	flex-direction: column;
+	line-height: .5;
+	position: absolute;
+	right: 2.5vw;
+	margin-top: 130%;
+}
+
+
+.swimming {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: white;
+	margin-top: 160%;
+	font-size: 16vw;
+	position: absolute;
+	left: 8vw;
+	z-index: 1
+
+}
+
+.thinking {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: white;
+	margin-top: 250%;
+	font-size: 16vw;
+	position: absolute;
+	left: 25vw;
+}
+
+.bout {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: white;
+	margin-top: 290%;
+	font-size: 16vw;
+	position: absolute;
+	left: 45vw;
+}
+
+.waterfall {
+	font-size: 11vw;
+	display: flex;
+	flex-direction: column;
+	line-height: .5;
+	position: absolute;
+	right: 4vw;
+	margin-top: 350%;
+}
+
+span {
+	color: #ED1C24;
+}
+
+
+.u1 {
+	font-size: 11vw;
+	margin-top: 408%;
+	position: absolute;
+	left: 10vw;
+
+}
+
+.u2 {
+	font-size: 11vw;
+	margin-top: 420%;
+	position: absolute;
+	left: 10vw;
+
+}
+
+.u3 {
+	font-size: 11vw;
+	margin-top: 435%;
+	position: absolute;
+	left: 10vw;
+
+}
+
+.p1 {
+	font-size: 11vw;
+	margin-top: 405%;
+	position: absolute;
+	left: 24vw;
+
+}
+
+.p2 {
+	font-size: 11vw;
+	margin-top: 420%;
+	position: absolute;
+	left: 24vw;
+
+}
+
+.i1 {
+	font-size: 11vw;
+	margin-top: 410%;
+	position: absolute;
+	left: 30vw;
+
+}
+
+.i2 {
+	font-size: 11vw;
+	margin-top: 410%;
+	position: absolute;
+	left: 56vw;
+
+}
+
+.i3 {
+	font-size: 11vw;
+	margin-top: 440%;
+	position: absolute;
+	left: 50vw;
+
+}
+
+.i4 {
+	font-size: 11vw;
+	margin-top: 425%;
+	position: absolute;
+	left: 56vw;
+
+}
+
+.i5 {
+	font-size: 11vw;
+	margin-top: 418%;
+	position: absolute;
+	left: 47vw;
+
+}
+
+
+.m1 {
+	font-size: 11vw;
+	margin-top: 412%;
+	position: absolute;
+	left: 15vw;
+
+}
+
+.m2 {
+	font-size: 11vw;
+	margin-top: 445%;
+	position: absolute;
+	left: 15vw;
+
+}
+
+.n1 {
+	font-size: 11vw;
+	margin-top: 415%;
+	position: absolute;
+	left: 33vw;
+
+}
+
+.n2 {
+	font-size: 11vw;
+	margin-top: 435%;
+	position: absolute;
+	left: 33vw;
+
+}
+
+.n3 {
+	font-size: 11vw;
+	margin-top: 410%;
+	position: absolute;
+	left: 50vw;
+
+}
+
+.n4 {
+	font-size: 11vw;
+	margin-top: 430%;
+	position: absolute;
+	left: 50vw;
+
+}
+
+
+.n5 {
+	font-size: 11vw;
+	margin-top: 404%;
+	position: absolute;
+	left: 60vw;
+
+}
+
+
+.n6 {
+	font-size: 11vw;
+	margin-top: 418%;
+	position: absolute;
+	left: 60vw;
+
+}
+
+.n7 {
+	font-size: 11vw;
+	margin-top: 448%;
+	position: absolute;
+	left: 60vw;
+
+}
+
+
+
+.s1 {
+	font-size: 11vw;
+	margin-top: 428%;
+	position: absolute;
+	left: 65vw;
+
+}
+
+.s2 {
+	font-size: 11vw;
+	margin-top: 468%;
+	position: absolute;
+	left: 65vw;
+
+}
+
+.d1 {
+	font-size: 11vw;
+	margin-top: 475%;
+	position: absolute;
+	left: 90vw;
+
+}
+
+.t1 {
+	font-size: 11vw;
+	margin-top: 415%;
+	position: absolute;
+	left: 70vw;
+
+}
+
+.g1 {
+	font-size: 11vw;
+	margin-top: 403%;
+	position: absolute;
+	left: 40vw;
+
+}
+
+.g2 {
+	font-size: 11vw;
+	margin-top: 442%;
+	position: absolute;
+	left: 40vw;
+
+}
+
+
+.g3 {
+	font-size: 11vw;
+	margin-top: 412%;
+	position: absolute;
+	left: 40vw;
+
+}
+
+.a1 {
+	font-size: 11vw;
+	margin-top: 403%;
+	position: absolute;
+	left: 82vw;
+
+}
+
+.a2 {
+	font-size: 11vw;
+	margin-top: 435%;
+	position: absolute;
+	left: 82vw;
+
+}
+
+
+.a3 {
+	font-size: 11vw;
+	margin-top: 420%;
+	position: absolute;
+	left: 82vw;
+
+}
+
+
+.got {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: white;
+	margin-top: 480%;
+	font-size: 14vw;
+	position: absolute;
+	left: 10vw;
+}
+
+.skinny {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 11vw;
+	display: flex;
+	flex-direction: column;
+	line-height: .8;
+	margin-top: 444%;
+	font-size: 14vw;
+	position: absolute;
+	left: 65vw;
+
+}
+
+.dipping {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 11vw;
+	display: flex;
+	flex-direction: column;
+	line-height: .8;
+	margin-top: 446%;
+	font-size: 14vw;
+	position: absolute;
+	left: 90vw;
+
+}
+
+
+.skinny2 {
+	font-size: 11vw;
+	margin-top: 478%;
+	position: absolute;
+	left: 69vw;
+}
+
+
+.skinny3 {
+	font-size: 11vw;
+	margin-top: 490%;
+	position: absolute;
+	left: 68vw;
+}
+
+.skinny4 {
+	font-size: 11vw;
+	margin-top: 500%;
+	position: absolute;
+	left: 62vw;
+}
+
+
+.skinny5 {
+	font-size: 11vw;
+	margin-top: 510%;
+	position: absolute;
+	left: 68vw;
+}
+
+.skinny6 {
+	font-size: 11vw;
+	margin-top: 522%;
+	position: absolute;
+	left: 65vw;
+}
+
+
+
+.dipping2 {
+	font-size: 11vw;
+	margin-top: 486%;
+	position: absolute;
+	left: 86vw;
+}
+
+.dipping3 {
+	font-size: 11vw;
+	margin-top: 496%;
+	position: absolute;
+	left: 90vw;
+}
+
+.dipping4 {
+	font-size: 11vw;
+	margin-top: 506%;
+	position: absolute;
+	left: 86vw;
+}
+
+.dipping5 {
+	font-size: 11vw;
+	margin-top: 516%;
+	position: absolute;
+	left: 89vw;
+}
+
+.dipping6 {
+	font-size: 11vw;
+	margin-top: 526%;
+	position: absolute;
+	left: 83vw;
+}
+
+
+
+.dipping7 {
+	font-size: 11vw;
+	margin-top: 536%;
+	position: absolute;
+	left: 89vw;
+}
+
+
+.deep1 {
+	font-size: 11vw;
+	margin-top: 540%;
+	position: absolute;
+	left: 75vw;
+}
+
+.deep2 {
+	font-size: 11vw;
+	margin-top: 550%;
+	position: absolute;
+	left: 77vw;
+}
+
+.deep3 {
+	font-size: 11vw;
+	margin-top: 563%;
+	position: absolute;
+	left: 72vw;
+}
+
+.deep4 {
+	font-size: 11vw;
+	margin-top: 578%;
+	position: absolute;
+	left: 76vw;
+}
+
+.inside1 {
+	font-size: 11vw;
+	margin-top: 558%;
+	position: absolute;
+	left: 88vw;
+}
+
+
+.inside2 {
+	font-size: 11vw;
+	margin-top: 564%;
+	position: absolute;
+	left: 90vw;
+}
+
+.inside3 {
+	font-size: 11vw;
+	margin-top: 574%;
+	position: absolute;
+	left: 86vw;
+}
+
+
+.inside4 {
+	font-size: 11vw;
+	margin-top: 584%;
+	position: absolute;
+	left: 89vw;
+}
+
+.inside5 {
+	font-size: 11vw;
+	margin-top: 594%;
+	position: absolute;
+	left: 91vw;
+}
+
+.inside6 {
+	font-size: 11vw;
+	margin-top: 606%;
+	position: absolute;
+	left: 88vw;
+}
+
+
+.my1 {
+	font-size: 11vw;
+	margin-top: 620%;
+	position: absolute;
+	left: 68vw;
+}
+
+
+.my2 {
+	font-size: 11vw;
+	margin-top: 635%;
+	position: absolute;
+	left: 74vw;
+}
+
+
+
+.head1 {
+	font-size: 11vw;
+	margin-top: 655%;
+	position: absolute;
+	left: 64vw;
+}
+
+.head2 {
+	font-size: 11vw;
+	margin-top: 670%;
+	position: absolute;
+	left: 68vw;
+}
+
+.head3 {
+	font-size: 11vw;
+	margin-top: 688%;
+	position: absolute;
+	left: 76vw;
+}
+
+.head4 {
+	font-size: 11vw;
+	margin-top: 706%;
+	position: absolute;
+	left: 72vw;
+}
+
+
+.navigation {
+	position: absolute;
+	margin-top: 760%;
+	font-size: 10vw;
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	text-align: center;
+}
+
+.back {
+	width: 33%;
+}
+
+.home {
+	width: 33%;
+
+}
+
+.forward {
+	width: 33%;
+}
+
+a {
+	color:black;
+	text-decoration: none;
+}

@@ -1,0 +1,566 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+body {
+	font-family: 'Libre Baskerville', serif;
+	color: white;
+	background-color: #93D9F8; 
+}
+
+p {
+	font-size: 8vw;
+}
+
+.two {
+	margin-top: 5%; 
+	position: absolute;
+	left: 2vw;
+}
+
+.still {
+	position: absolute;
+	margin-top: 40%;
+	right: 2vw;
+	line-height: 1;
+}
+
+.staring {
+	position: absolute;
+	margin-top: 90%;
+	left: 2vw;
+	line-height: 1;
+}
+
+.floating1 {
+	position: absolute;
+	margin-top: 400%;
+}
+
+.floating2 {
+	position: absolute;
+	margin-top: 395%;
+	left: 5vw;
+}
+
+.floating3 {
+	position: absolute;
+	margin-top: 390%;
+	left: 10vw;
+}
+
+
+.floating4 {
+	position: absolute;
+	margin-top: 383%;
+	left: 14vw;
+}
+
+.floating5 {
+	position: absolute;
+	margin-top: 376%;
+	left: 19vw;
+}
+
+.floating6 {
+	position: absolute;
+	margin-top: 368%;
+	left: 24vw;
+}
+
+.floating7 {
+	position: absolute;
+	margin-top: 358%;
+	left: 27vw;
+}
+
+
+.floating8 {
+	position: absolute;
+	margin-top: 345%;
+	left: 32vw;
+}
+
+.up1 {
+	position: absolute;
+	margin-top: 330%;
+	left: 38vw;
+}
+
+.up2 {
+	position: absolute;
+	margin-top: 320%;
+	left: 44vw;
+}
+
+
+.to1 {
+	position: absolute;
+	margin-top: 302%;
+	left: 50vw;
+}
+
+.to2 {
+	position: absolute;
+	margin-top: 294%;
+	left: 54vw;
+}
+
+
+
+.the1 {
+	position: absolute;
+	margin-top: 275%;
+	left: 60vw;
+}
+
+
+.the2 {
+	position: absolute;
+	margin-top: 265%;
+	left: 64vw;
+}
+
+.the3 {
+	position: absolute;
+	margin-top: 255%;
+	left: 68vw;
+}
+
+
+
+.ceiling1 {
+	position: absolute;
+	margin-top: 235%;
+	left: 74vw;
+}
+
+
+.ceiling2 {
+	position: absolute;
+	margin-top: 223%;
+	left: 78vw;
+}
+
+
+.ceiling3 {
+	position: absolute;
+	margin-top: 210%;
+	left: 82vw;
+}
+
+
+
+.ceiling4 {
+	position: absolute;
+	margin-top: 195%;
+	left: 84vw;
+}
+
+
+.ceiling5 {
+	position: absolute;
+	margin-top: 180%;
+	left: 87vw;
+}
+
+
+.ceiling6 {
+	position: absolute;
+	margin-top: 165%;
+	left: 89vw;
+}
+
+
+.ceiling7 {
+	position: absolute;
+	margin-top: 150%;
+	left: 91vw;
+}
+
+.im {
+	position: absolute;
+	margin-top: 450%;
+	left: 28vw;
+}
+
+.in {
+	position: absolute;
+	margin-top: 472%;
+	left: 64vw;
+}
+
+
+
+.every1{
+	position: absolute;
+	margin-top: 500%;
+	left: 0vw;
+	font-size: 30vw;
+}
+
+.every2 {
+	position: absolute;
+	margin-top: 515%;
+	left: 20vw;
+	font-size: 30vw;
+}
+
+.every3 {
+	position: absolute;
+	margin-top: 500%;
+	left: 40vw;
+	font-size: 30vw;
+}
+
+.every4 {
+	position: absolute;
+	margin-top: 515%;
+	left: 60vw;
+	font-size: 30vw;
+}
+
+.every5 {
+	position: absolute;
+	margin-top: 500%;
+	left: 78vw;
+	font-size: 30vw;
+}
+
+.thing1 {
+	position: absolute;
+	margin-top: 535%;
+	left: 3vw;
+	font-size: 30vw;
+}
+
+.thing2 {
+	position: absolute;
+	margin-top: 550%;
+	left: 20vw;
+	font-size: 30vw;
+}
+
+.thing3 {
+	position: absolute;
+	margin-top: 535%;
+	left: 40vw;
+	font-size: 30vw;
+}
+
+.thing4 {
+	position: absolute;
+	margin-top: 550%;
+	left: 55vw;
+	font-size: 30vw;
+}
+
+.thing5 {
+	position: absolute;
+	margin-top: 535%;
+	left: 78vw;
+	font-size: 30vw;
+}
+
+.you1 {
+	position: absolute;
+	margin-top: 570%;
+	left: 6vw;
+	font-size: 30vw;
+}
+
+.you2 {
+	position: absolute;
+	margin-top: 585%;
+	left: 40vw;
+	font-size: 30vw;
+}
+
+.you3 {
+	position: absolute;
+	margin-top: 570%;
+	left: 70vw;
+	font-size: 30vw;
+}
+
+.said1 {
+	position: absolute;
+	margin-top: 600%;
+	left: 6vw;
+	font-size: 30vw;
+}
+
+.said2 {
+	position: absolute;
+	margin-top: 610%;
+	left: 32vw;
+	font-size: 30vw;
+}
+
+.said3 {
+	position: absolute;
+	margin-top: 600%;
+	left: 63vw;
+	font-size: 30vw;
+}
+
+.said4 {
+	position: absolute;
+	margin-top: 610%;
+	left: 75vw;
+	font-size: 30vw;
+}
+
+
+.thinking {
+	position: absolute;
+	margin-top: 670%;
+	left: 4vw;
+
+}
+
+.bout {
+	position: absolute;
+	margin-top: 690%;
+	left: 18vw;
+}
+
+.jumping1 {
+	position: absolute;
+	margin-top: 695%;
+	left: 44vw;
+}
+
+
+.jumping2 {
+	position: absolute;
+	margin-top: 690%;
+	left: 48vw;
+}
+
+.jumping3 {
+	position: absolute;
+	margin-top: 684%;
+	left: 54vw;
+}
+
+
+.jumping3 {
+	position: absolute;
+	margin-top: 684%;
+	left: 54vw;
+}
+
+.jumping4 {
+	position: absolute;
+	margin-top: 694%;
+	left: 64vw;
+}
+
+
+.jumping5 {
+	position: absolute;
+	margin-top: 706%;
+	left: 68vw;
+}
+
+.jumping6 {
+	position: absolute;
+	margin-top: 718%;
+	left: 71vw;
+}
+
+.jumping7 {
+	position: absolute;
+	margin-top: 720%;
+	left: 76vw;
+	transform: rotate(140deg)
+}
+
+
+.jumping8 {
+	position: absolute;
+	margin-top: 738%;
+	left: 74vw;
+	
+}
+
+
+.jumping9 {
+	position: absolute;
+	margin-top: 752%;
+	left: 76vw;
+	
+}
+
+.instead {
+	position: absolute;
+	margin-top: 764%;
+	left: 68vw;
+}
+
+
+.deep {
+	position: absolute;
+	margin-top: 900%;
+	left: 2vw;
+	font-size: 15vw;
+}
+
+
+.inside {
+	position: absolute;
+	margin-top: 900%;
+	right: 2vw;
+	font-size: 15vw;
+}
+
+
+.my {
+	position: absolute;
+	margin-top: 920%;
+	left: 2vw;
+	font-size: 18vw;
+}
+
+
+
+.head {
+	position: absolute;
+	margin-top: 920%;
+	right: 2vw;
+	font-size: 18vw;
+}
+
+.got {
+	position: absolute;
+	margin-top: 800%;
+	right: 2vw;
+}
+
+.skinny1 {
+	position: absolute;
+	margin-top: 808%;
+	right: 40vw;
+}
+
+.skinny2 {
+	position: absolute;
+	margin-top: 815%;
+	right: 43vw;
+}
+
+.skinny3 {
+	position: absolute;
+	margin-top: 825%;
+	right: 48vw;
+}
+
+
+.skinny4 {
+	position: absolute;
+	margin-top: 835%;
+	right: 49vw;
+}
+
+
+.skinny5 {
+	position: absolute;
+	margin-top: 847%;
+	right: 51vw;
+}
+
+
+.skinny6 {
+	position: absolute;
+	margin-top: 858%;
+	right: 51vw;
+}
+
+.dipping1 {
+	position: absolute;
+	margin-top: 873%;
+	right: 48vw;
+}
+
+
+.dipping2 {
+	position: absolute;
+	margin-top: 883%;
+	right: 46vw;
+}
+
+.dipping3 {
+	position: absolute;
+	margin-top: 892%;
+	right: 48vw;
+}
+
+
+.dipping4 {
+	position: absolute;
+	margin-top: 903%;
+	right: 51vw;
+}
+
+
+.dipping5 {
+	position: absolute;
+	margin-top: 916%;
+	right: 57vw;
+}
+
+
+.dipping6 {
+	position: absolute;
+	margin-top: 925%;
+	right: 54vw;
+}
+
+.dipping7 {
+	position: absolute;
+	margin-top: 934%;
+	right: 52vw;
+}
+
+
+
+.navigation {
+	position: absolute;
+	margin-top: 964%;
+	font-size: 10vw;
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	text-align: center;
+}
+
+.back {
+	width: 33%;
+}
+
+.home {
+	width: 33%;
+
+}
+
+.forward {
+	width: 33%;
+}
+
+a {
+	color:white;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+

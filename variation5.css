@@ -1,0 +1,253 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+body {
+	font-family: 'Monoton', cursive;
+	font-size: 13vw;
+	color: white;
+	background-color: pink;
+}
+
+.two {
+	position: absolute;
+	right: 2vw;
+	margin-top: 1%;
+}
+
+.still {
+
+	margin-top: 12.5%;
+	position: absolute;
+	right: 2vw;
+}
+
+.breathing {
+	margin-top: 24%;
+	position: absolute;
+	right: 2vw;
+}
+
+h1 {
+	font-family: 'Meddon', cursive;
+}
+
+.staring {
+	margin-top: 38%;
+	position: absolute;
+	right: 2vw;
+	font-size: 6.2vw;
+}
+
+
+
+.floating {
+
+	position: absolute;
+	left: 13vw;
+	margin-top: 80%;
+	text-shadow: 10px 20px 11px #ff8383
+}
+
+.up {
+	position: absolute;
+	left: 39vw;
+	margin-top: 100%;
+	text-shadow: 10px 20px 11px #ff8383
+}
+
+.to {
+	position: absolute;
+	left: 40vw;
+	margin-top: 120%;
+	text-shadow: 10px 20px 11px #ff8383
+}
+
+.the {
+	position: absolute;
+	left: 36vw;
+	margin-top: 140%;
+	text-shadow: 10px 20px 11px #ff8383
+}
+
+.ceiling {
+	position: absolute;
+	left: 21vw;
+	margin-top: 160%;
+	text-shadow: 10px 20px 11px #ff8383
+}
+
+
+.im {
+	font-size: 20vw;
+	position: absolute;
+	margin-top: 196%;
+}
+
+.swim {
+	font-size: 20vw;
+	position: absolute;
+	margin-top: 217%;
+}
+
+.ming {
+	font-size: 20vw;
+	position: absolute;
+	margin-top: 230%;
+	left: 30vw;
+}
+
+.in {
+	font-size: 20vw;
+	position: absolute;
+	margin-top: 244%;
+	left: 38vw;
+}
+
+
+.everything {
+	position: absolute;
+	left: 3vw;
+	margin-top: 220%;
+	text-shadow: 10px 20px 11px #ff8383
+}
+
+.you {
+	position: absolute;
+	left: 3vw;
+	margin-top: 240%;
+	text-shadow: 10px 20px 11px #ff8383
+}
+
+.said {
+	position: absolute;
+	left: 3vw;
+	margin-top: 257%;
+	text-shadow: 10px 20px 11px #ff8383
+}
+
+
+.jumping {
+	position: absolute;
+	left: 3vw;
+	margin-top: 321%;
+	text-shadow: 10px 20px 11px #ff8383;
+	z-index: 1;
+}
+
+
+.in2 {
+	position: absolute;
+	left: 70vw;
+	margin-top: 316%;
+	text-shadow: 10px 20px 11px #ff8383;
+	font-size: 24vw;
+	z-index: 1
+}
+
+
+
+.instead {
+	position: absolute;
+	left: 3vw;
+	margin-top: 328%;
+	font-size: 14.2vw;
+
+}
+
+.thinking {
+	position: absolute;
+	margin-top: 310%;
+	font-size: 8vw;
+	left: 4vw;
+}
+
+
+.got {
+	font-size: 10vw;
+	position: absolute;
+	left: 19vw;
+	margin-top: 375%;
+}
+
+.deep {
+	position: absolute;
+	margin-top: 390%;
+	left: 30vw;
+	text-shadow: 10px 20px 11px #ff8383;
+	z-index: 1
+}
+
+.inside {
+	position: absolute;
+	margin-top: 410%;
+	left: 25vw;
+	text-shadow: 10px 20px 11px #ff8383;
+	z-index: 1
+}
+
+.my{
+	position: absolute;
+	margin-top: 430%;
+	left: 15vw;
+	text-shadow: 10px 20px 11px #ff8383;
+	z-index: 1
+}
+
+
+.head {
+	position: absolute;
+	margin-top: 450%;
+	left: 26vw;
+	text-shadow: 10px 20px 11px #ff8383;
+	z-index: 1
+}
+
+
+.skinny {
+	font-size: 20vw;
+	position: absolute;
+	margin-top: 387%;
+}
+
+.dipping {
+	font-size: 20vw;
+	position: absolute;
+	margin-top: 408%;
+	left: 8vw;
+}
+
+
+
+
+
+.navigation {
+	position: absolute;
+	margin-top: 458%;
+	font-size: 10vw;
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	text-align: center;
+}
+
+.back {
+	width: 33%;
+}
+
+.home {
+	width: 33%;
+
+}
+
+.forward {
+	width: 33%;
+}
+
+a {
+	color:white;
+	text-decoration: none;
+}
